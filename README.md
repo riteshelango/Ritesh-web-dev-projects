@@ -6,12 +6,12 @@ A collection of front-end projects I am building while learning HTML, CSS, and J
 
 ---
 
-## 📝 Project 1 — Study Habits Survey Form
+## Project 1 — Study Habits Survey Form
 
 This is my first project, a simple survey form built using **HTML**.  
 It collects basic information about how students study and manage their time.
 
-### 🔧 What I learned and implemented in my first 5 days:
+### What I learned and implemented in my first 5 days:
 
 - **Basic HTML page structure**
   - Using `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`  
